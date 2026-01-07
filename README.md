@@ -71,3 +71,11 @@ The dashboard is available in the `assets` folder.
 ---
 
 ## 📎 Repository Structure
+```
+operations-analytics-scrap-oee/
+├── README.md
+├── sql/
+│   └── queries.sql
+└── assets/
+       └── Dashboard_Tableau.pdf
+```
